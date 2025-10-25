@@ -26,3 +26,5 @@ java Main
 ## Some Issues
 - Cannot click on the tiles too fast - clicks need to be slow to proccess
 - Can still click on tiles after game is over when you lose
+- Created in high school
+- Forgot most of java
